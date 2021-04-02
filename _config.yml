@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Tony Zirui Yang
+email: yangzirui@wustl.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: yangzirui2
 github_username:
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
